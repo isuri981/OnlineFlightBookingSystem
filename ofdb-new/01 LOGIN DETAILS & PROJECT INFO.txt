@@ -1,0 +1,11 @@
+
+
+Database Name: flighttemp
+
+
+
+Admin Login Details
+Email: admin
+Password: admin@123
+
+
